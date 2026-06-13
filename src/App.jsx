@@ -13,7 +13,7 @@ const INITIAL_GUESTS = [
   { id: "g3", display: "Allison Clarke", type: "individual", members: ["Allison Clarke"] },
   { id: "g4", display: "Pippy & Jullian Franklin", type: "couple", members: ["Pippy", "Jullian Franklin"] },
   { id: "g5", display: "Yasmine Hussain", type: "individual", members: ["Yasmine Hussain"] },
-  { id: "g6", display: "Casheena & Kurt Beals", type: "couple", members: ["Casheena", "Kurt Beals"] },
+  { id: "g6", display: "Cashenna & Kurt Beals", type: "couple", members: ["Cashenna", "Kurt Beals"] },
   { id: "g7", display: "Lauren & Adam O\u2019Leary", type: "couple", members: ["Lauren O\u2019Leary", "Adam O\u2019Leary"] },
   { id: "g8", display: "Riley & Foster Melanson (+2)", type: "family", members: ["Riley Melanson", "Foster Melanson", "Melanson +1", "Melanson +2"], familySize: 4 },
   { id: "g9", display: "Jacob & Sarah Wilkinson-Smith-Bayne", type: "couple", members: ["Jacob", "Sarah"] },
