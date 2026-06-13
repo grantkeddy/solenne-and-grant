@@ -32,6 +32,7 @@ const INITIAL_GUESTS = [
   { id: "g22", display: "Myke & Elysia Bulley", type: "couple", members: ["Myke Bulley", "Elysia Bulley"] },
   { id: "g23", display: "Samantha Edwards & Liam Gracie", type: "couple", members: ["Samantha Edwards", "Liam Gracie"] },
   { id: "g24", display: "Diana English", type: "individual", members: ["Diana English"] },
+  { id: "g25", display: "Chad & Britt Lovett", type: "couple", members: ["Chad Lovett", "Brittany Hodgkinson"] },
 ];
 
 const EVENT = {
